@@ -34,7 +34,6 @@
 [<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
 
 ## Estatísticas no GitHub
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula)
 
 
