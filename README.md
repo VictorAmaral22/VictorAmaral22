@@ -8,7 +8,7 @@
 
 ### Podes entrar em contato comigo por aqui:
 
-[<img src="https://www.pngrepo.com/download/303161/gmail-icon-logo.png" />][email]
+[<img align="left" width="25px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/gmail.png" />][email]
 [<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 [<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 [<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
