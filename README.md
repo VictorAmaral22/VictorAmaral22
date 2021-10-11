@@ -1,6 +1,6 @@
 ### Salve, eu sou o Victor👋
 
-## Sou um programador Full-stack e designer de tela nas horas vagas 🤣
+## Sou um programador Full-stack e designer de telas nas horas vagas😎
 
 - 📚 Faço o curso Técnico de Informática para Internet no IFRS - Campus Rio Grande
 - 🎬 Fui desenvolvedor do site Mostra de Cinema Latino-Americana de Rio Grande
