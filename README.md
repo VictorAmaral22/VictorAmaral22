@@ -9,11 +9,9 @@
 ### Podes entrar em contato comigo por aqui:
 
 [<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/gmail.png" />][email]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/instagram.png" />][instagram]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/twitter.png" />][twitter]
 [<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/linkedin.png" />][linkedin]
-
-<br />
+[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/twitter.png" />][twitter]
+[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/instagram.png" />][instagram]
 
 ### Linguagens e Frameworks:
 
