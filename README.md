@@ -1,16 +1,7 @@
-### Salve, eu sou o Victor👋
+## Salve, eu sou o Victor👋
 - 📚 Faço o curso Técnico de Informática para Internet no IFRS - Campus Rio Grande
 - 🎬 Fui desenvolvedor do site Mostra de Cinema Latino-Americana de Rio Grande
 - 🦽 Atualmente trabalhando no app para acessibilidade Qlocal
-
-### Podes entrar em contato comigo por aqui:
-
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/gmail.png" />][email]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/linkedin.png" />][linkedin]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/twitter.png" />][twitter]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/instagram.png" />][instagram]
-
-<br />
 
 ### Linguagens e Frameworks:
 
@@ -29,6 +20,16 @@
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 [<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
+
+### Podes entrar em contato comigo por aqui:
+
+[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/gmail.png" />][email]
+[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/linkedin.png" />][linkedin]
+[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/twitter.png" />][twitter]
+[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/instagram.png" />][instagram]
+
+<br />
+<br />
 
 ## Estatísticas no GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula)
