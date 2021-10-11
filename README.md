@@ -13,6 +13,8 @@
 [<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/twitter.png" />][twitter]
 [<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/instagram.png" />][instagram]
 
+<br>
+
 ### Linguagens e Frameworks:
 
 
