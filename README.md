@@ -8,10 +8,10 @@
 
 ### Podes entrar em contato comigo por aqui:
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://toppng.com/uploads/preview/circle-twitter-logo-png-11536001225vm30ml2dw2.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img src="https://www.pngrepo.com/download/303161/gmail-icon-logo.png" />][email]
+[<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
+[<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
