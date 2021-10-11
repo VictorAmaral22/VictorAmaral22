@@ -34,9 +34,6 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 [<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
 
-<br />
-<br />
-
 ---
 
 <details>
@@ -72,7 +69,5 @@
 [reactnative]: https://github.com/VictorAmaral22/ReactNative
 [sql]: https://github.com/VictorAmaral22/MySQL
 [mysql]: https://github.com/VictorAmaral22/MySQL
-<!-- [postgres]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
 [php]: https://github.com/VictorAmaral22/php-nodestudio
-[rest]: https://github.com/VictorAmaral22/REST-API
 [git]: https://github.com/VictorAmaral22/Git-cheats
