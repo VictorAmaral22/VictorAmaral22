@@ -1,4 +1,4 @@
-## Salve, eu sou o Victor👋
+## Eae, tudo certo?👋
 - 📚 Faço o curso Técnico de Informática para Internet no IFRS - Campus Rio Grande
 - 🎬 Fui desenvolvedor do site <a href="https://mostraderiogrande.com.br/">Mostra de Cinema Latino-Americana de Rio Grande</a>
 - 🦽 Atualmente trabalhando no app para acessibilidade Qlocal
