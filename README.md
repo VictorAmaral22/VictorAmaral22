@@ -33,6 +33,7 @@
 
 ## Estatísticas no GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioGQ&show_icons=true&count_private=true&theme=dracula)
 
 
 [email]: mailto:victortavamaral@gmail.com
