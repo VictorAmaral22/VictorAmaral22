@@ -44,7 +44,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 <div style="display: flex; flex-direction: row">
 
 <div style="width: 45%; margin-bottom: 15px; margin-right: 10px; float: left;">
-<img src="./miranha.gif" style="width: 100%" />
+<img src="./miranha.gif" />
 </div>
 
 <div style="display: flex; flex-direction: column; width: 50%; float: right;">
