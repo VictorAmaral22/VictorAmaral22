@@ -51,7 +51,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 
 </div>
 
-<img src="./miranha.gif" style="width: 35%; margin-bottom: 15px; " />
+<img src="./miranha.gif" style="width: 35%; margin-bottom: 15px; margin-right: 15px; position: absolute; right: 0;" />
 
 </div>
 
