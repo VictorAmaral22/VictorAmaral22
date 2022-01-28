@@ -2,7 +2,7 @@
 
 Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobile. Adoro aprender coisas novas e trabalhar em projetos inovadores!
 
-- 📚 Eu faço o curso Técnico de Informática para <a href="https://ifrs.edu.br/riogrande/">Internet no IFRS - Campus Rio Grande</a>
+- 📚 Eu faço o curso Técnico de Informática para Internet no <a href="https://ifrs.edu.br/riogrande/">IFRS - Campus Rio Grande</a>
 - 🚜 Atualmente trabalhando como Analista em Desenvolvimento de Sistemas Júnior na <a href="http://aired.com.br/#/about">Aired - Inovação em Geotecnologia</a>
 - 👨🏼‍🦯 Sou Desenvolvedor Full Stack no <a href="#">App para Acessibilidade Qlocal</a>
 <!-- - 🎬 Fui desenvolvedor do site <a href="https://mostraderiogrande.com.br/">Mostra de Cinema Latino-Americana de Rio Grande</a> -->
