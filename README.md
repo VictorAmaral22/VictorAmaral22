@@ -42,7 +42,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 
 ## 📈 Estatísticas
 
-<img src="./miranha.gif" style="width: 150px; margin-top: 26px; margin-right: 10px" />
+<img src="./miranha.gif" style="width: 150px; position: absolute; bottom: 0; right: 0; margin-top: 26px; margin-right: 10px" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula&custom_title=Estatísticas+no+Github)
 
