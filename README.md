@@ -1,32 +1,37 @@
 ## Eae, tudo certo?👋
-- 📚 Faço o curso Técnico de Informática para Internet no IFRS - Campus Rio Grande
-- 🎬 Fui desenvolvedor do site <a href="https://mostraderiogrande.com.br/">Mostra de Cinema Latino-Americana de Rio Grande</a>
-- 🦽 Atualmente trabalhando no app para acessibilidade Qlocal
 
-### Linguagens e Frameworks:
+Sou o Victor Amaral, Desenvolvedor Full Stack Júnior e desenvolvo aplicações para Web e Mobile. Adoro aprender coisas novas e trabalhar em projetos inovadores!
+
+- 📚 Eu faço o curso Técnico de Informática para <a href="https://ifrs.edu.br/riogrande/">Internet no IFRS - Campus Rio Grande</a>
+- 🚜 Atualmente trabalhando como Analista em Desenvolvimento de Sistemas Júnior na <a href="http://aired.com.br/#/about">Aired - Inovação em Geotecnologia</a>
+- 👨🏼‍🦯 Sou Desenvolvedor Full Stack no App para Acessibilidade <a>Qlocal</a>
+<!-- - 🎬 Fui desenvolvedor do site <a href="https://mostraderiogrande.com.br/">Mostra de Cinema Latino-Americana de Rio Grande</a> -->
+
+
+### Tecnologias, bibliotecas e frameworks que trabalho:
 
 [<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][reactnative]
 [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
-[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />][js]
 [<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />][node]
-<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
-[<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />][php]
+
+### SGDBs:
+
 [<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />][mysql]
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-[<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][html5]
-<img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
-[<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][css]
+
+### Outras ferramentas:
+
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-[<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][git]
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 ### Podes entrar em contato comigo por aqui:
 
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/gmail.png" />][email]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/linkedin.png" />][linkedin]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/twitter.png" />][twitter]
-[<img align="left" width="30px" src="https://github.com/VictorAmaral22/VictorAmaral22/blob/master/instagram.png" />][instagram]
+[<img align="left" width="30px" src="./gmail.png" />][email]
+[<img align="left" width="30px" src="./linkedin.png" />][linkedin]
+[<img align="left" width="30px" src="./twitter.png" />][twitter]
+[<img align="left" width="30px" src="./instagram.png" />][instagram]
 
 <br />
 <br />
