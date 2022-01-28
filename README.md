@@ -1,6 +1,6 @@
 ## Eae, tudo certo?👋
 
-Sou o Victor Amaral, Desenvolvedor Full Stack Júnior e desenvolvo aplicações para Web e Mobile. Adoro aprender coisas novas e trabalhar em projetos inovadores!
+Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobile. Adoro aprender coisas novas e trabalhar em projetos inovadores!
 
 - 📚 Eu faço o curso Técnico de Informática para <a href="https://ifrs.edu.br/riogrande/">Internet no IFRS - Campus Rio Grande</a>
 - 🚜 Atualmente trabalhando como Analista em Desenvolvimento de Sistemas Júnior na <a href="http://aired.com.br/#/about">Aired - Inovação em Geotecnologia</a>
@@ -22,9 +22,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior e desenvolvo aplicações 
 
 ### Outras ferramentas:
 
-<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" /><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 ### Podes entrar em contato comigo por aqui:
 
