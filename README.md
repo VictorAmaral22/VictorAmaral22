@@ -43,16 +43,15 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 ## 📈 Estatísticas
 <div style="display: flex; flex-direction: row">
 
-<div style="display: flex; flex-direction: column; width: 50%; float: right;">
+<div style="display: flex; flex-direction: column; width: 50%; ">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula&&card_width=300&custom_title=Estatísticas+no+Github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula&layout=compact&card_width=300&custom_title=Linguagens+mais+usadas)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-<div style="width: 45%; margin-bottom: 15px; margin-right: 10px; float: left;">
-<img src="./miranha.gif" />
-</div>
+<img src="./miranha.gif" style="width: 35%; margin-bottom: 15px; " />
 
 </div>
 
