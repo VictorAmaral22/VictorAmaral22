@@ -33,6 +33,8 @@
 
 ## Estatísticas no GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [email]: mailto:victortavamaral@gmail.com
 [twitter]: https://twitter.com/VictorA97622430
