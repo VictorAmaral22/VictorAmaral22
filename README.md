@@ -8,20 +8,20 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 <!-- - 🎬 Fui desenvolvedor do site <a href="https://mostraderiogrande.com.br/">Mostra de Cinema Latino-Americana de Rio Grande</a> -->
 
 
-### Tecnologias, bibliotecas e frameworks que trabalho:
+### 📱 Tecnologias, bibliotecas e frameworks que trabalho:
 
 [<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][reactnative]
 [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
 [<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />][node]
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 
-### SGDBs:
+### 🎲 SGDBs:
 
 [<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />][mysql]
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-### Outras ferramentas:
+### 🔧 Outras ferramentas:
 
 <span>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -31,7 +31,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </span>
 
-### Podes entrar em contato comigo por aqui:
+### 📞 Podes entrar em contato comigo por aqui:
 
 [<img align="left" width="30px" src="./gmail.png" />][email]
 [<img align="left" width="30px" src="./linkedin.png" />][linkedin]
@@ -41,9 +41,10 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 <br />
 <br />
 
-## Estatísticas no GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula&custom_title=Estatísticas+no+Github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula&layout=compact&card_width=445&custom_title=Linguagens+mais+usadas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [email]: mailto:victortavamaral@gmail.com
