@@ -52,7 +52,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 [email]: mailto:victortavamaral@gmail.com
 [twitter]: https://twitter.com/VictorA97622430
 [instagram]: https://www.instagram.com/victortamaral/
-[linkedin]: https://www.linkedin.com/in/victor-tavares-do-amaral-621376208/
+[linkedin]: https://www.linkedin.com/in/victor-amaral-621376208/
 
 [js]: https://github.com/VictorAmaral22/POO_Js
 [node]: https://github.com/VictorAmaral22/nodejs-studies
