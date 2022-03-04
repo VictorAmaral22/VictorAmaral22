@@ -7,8 +7,14 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 - 👨🏼‍🦯 Sou Desenvolvedor Full Stack no <a href="#">App para Acessibilidade Qlocal</a>
 <!-- - 🎬 Fui desenvolvedor do site <a href="https://mostraderiogrande.com.br/">Mostra de Cinema Latino-Americana de Rio Grande</a> -->
 
+### 👨🏻‍💻 Linguagens
 
-### 📱 Tecnologias, bibliotecas e frameworks que trabalho:
+[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />]
+[<img src="TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />]
+[<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />]
+[<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />]
+
+### 📱 Tecnologias e bibliotecas preferidas:
 
 [<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][reactnative]
 [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
