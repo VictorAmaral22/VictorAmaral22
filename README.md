@@ -54,7 +54,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula&layout=compact&card_width=445&custom_title=Linguagens+mais+usadas)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VictorAmaral22&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VictorAmaral22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [email]: mailto:victortavamaral@gmail.com
