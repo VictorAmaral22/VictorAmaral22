@@ -27,6 +27,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 [<img align="left" width="30px" src="./instagram.png" />][instagram]
 
 <br />
+<br />
 
 ## 📈 Estatísticas
 
