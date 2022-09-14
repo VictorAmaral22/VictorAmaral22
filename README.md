@@ -29,7 +29,7 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 <br />
 <br />
 
-## 📈 Estatísticas
+<!-- ## 📈 Estatísticas -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula&custom_title=Estatísticas+no+Github) -->
 
