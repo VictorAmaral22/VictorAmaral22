@@ -3,6 +3,7 @@
 Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobile. Adoro aprender coisas novas e trabalhar em projetos inovadores!
 
 - 🚜 Atualmente trabalhando como Analista em Desenvolvimento de Sistemas Júnior na <a href="http://aired.com.br/#/about">Aired - Inovação em Geotecnologia</a>
+- 💻 Cursando Sistema de Informação na <a href="https://www.furg.br/">FURG</a>
 - 🎓 Formado no curso Técnico de Informática para Internet no <a href="https://ifrs.edu.br/riogrande/">IFRS - Campus Rio Grande</a>
 - 👨🏼‍🦯 Desenvolvedor Full Stack no <a href="#">App para Acessibilidade Qlocal</a>
 
