@@ -1,4 +1,5 @@
 ## Eae, tudo certo?👋
+[![Visits Badge](https://badges.pufler.dev/visits/VictorAmaral22/VictorAmaral22)](https://badges.pufler.dev)
 
 Sou o Victor Amaral, Desenvolvedor Full Stack de aplicações Web e Mobile. Adoro aprender coisas novas e trabalhar em projetos inovadores!
 
@@ -13,12 +14,19 @@ Sou o Victor Amaral, Desenvolvedor Full Stack de aplicações Web e Mobile. Ador
 [<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />][js]
 [<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />][php]
 [<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][css]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 📱 Tecnologias e bibliotecas preferidas:
+### 📱 Bibliotecas e ferramentas preferidas:
 
 [<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][reactnative]
 [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />][react]
 [<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />][node]
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<br>
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📞 Podes entrar em contato comigo por aqui:
 
@@ -40,8 +48,6 @@ Sou o Victor Amaral, Desenvolvedor Full Stack de aplicações Web e Mobile. Ador
 <!-- ## 📈 Estatísticas -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAmaral22&show_icons=true&count_private=true&theme=dracula&custom_title=Estatísticas+no+Github) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula&layout=compact&card_width=445&custom_title=Linguagens+mais+usadas)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [email]: mailto:victortavamaral@gmail.com
 [twitter]: https://twitter.com/VictorA97622430
